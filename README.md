@@ -1,7 +1,7 @@
 ## About Me
 ![Add a heading (2)](https://github.com/xella-0925/xella-0925/assets/124006971/b2e09a54-4b3a-4266-be07-f37b4cc5aecf)
 
-### <div align="left">A BSCS 2A student from West Visayas State University.</div>  
+### <div align="left">A BSCS 3A student from West Visayas State University.</div>  
 
 - ❣️ Personal Interests: Science, Philosophy, and ICT.  
 - 🌱 I’m currently learning C++, Python, and Java.  
